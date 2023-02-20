@@ -81,3 +81,6 @@ DB에 접속하여 데이터를 조회/수정을 하는 기능을 전담하도�
 
 TDD = Test Driven Development
 DBMS = DataBase Management System
+
+챕터8. DB 연동(MYSQL)
+MYSQL 공부 필요
